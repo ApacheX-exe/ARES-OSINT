@@ -27,6 +27,10 @@ Third-party services may rate-limit requests. Results are leads, not proof.
 sudo apt update
 sudo apt install -y python3
 python3 --version
+git clone https://github.com/ApacheX-exe/ARES-OSINT.git
+cd ARES-OSINT
+chmod 777 ares.py
+
 ```
 
 No pip dependencies are required.
